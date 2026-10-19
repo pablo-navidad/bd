@@ -149,7 +149,7 @@
 | VARI061 | Muelle Cierra Puerta Justor | Justor | Ferretería General | Muelles | 33.40 | 40.41 | varios_general_p07_07.png | Dispositivo de cierre de puerta vertical con resorte Justor en color negro |
 | VARI062 | Muelle Vaivén Blanco Justor | Justor | Ferretería General | Muelles | 39.25 | 47.49 | varios_general_p07_08.png | Mecanismo de muelle para puerta de vaivén en lacado blanco Justor |
 | VARI063 | Muelle Hidráulico Telesco s/Retención | Telesco | Ferretería General | Muelles | 58.90 | 71.27 | varios_general_p07_09.png | Brazo cierrapuertas aéreo hidráulico articulado sin retención |
-| VARI064 | Muelle Puerta Inther Negro | Inther | Ferretería General | Muelles | 35.00 | 42.35 | varios_general_p07_10.png | Cierrapuertas hidráulico aéreo en cuerpo negro con brazo articulado |
+| VARI064 | Muelle Puerta Inther Negro | Inther | Ferretería General | Muelles | 35.00 | 42.35 | varios_general_p07_10.jpg | Cierrapuertas hidráulico aéreo en cuerpo negro con brazo articulado |
 
 | SKU | Nombre | Marca | Categoria | Subcategoria | Precio_Sin_IVA | Precio_Con_IVA | ID_Imagen | Descripcion_Visual |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
